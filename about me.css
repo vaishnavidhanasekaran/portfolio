@@ -1,0 +1,27 @@
+.about-content {
+    display: flex;
+    gap: 20px;
+}
+.about-img {
+    height: 500px;
+    width: 450px;
+    align-items: center;
+    gap: 30px;
+}
+.about-text {
+    font-size: 20px;
+}
+body {
+    background: url(https://cbeditz.com/public/cbeditz/preview/light-sky-blue-gradient-background-wallpaper-hd-11614501737urxucrdnmz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-skills {
+    font-size: large;
+}
+.about-back {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    font-size: larger;
+}

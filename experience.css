@@ -1,0 +1,27 @@
+.edu-event h3 {
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+.edu-mentor h3 {
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+body {
+    background-image: url(https://cbeditz.com/public/cbeditz/preview/light-sky-blue-gradient-background-wallpaper-hd-11614501737urxucrdnmz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content {
+    font-size: larger;
+}
+.topic {
+    font-size: 30px;
+}
+.experience-back {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    font-size: large;
+}

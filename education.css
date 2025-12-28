@@ -1,0 +1,40 @@
+
+.e01-box {
+    border: solid 2px;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(206, 212, 214);
+}
+.e02-box {
+    border: solid 2px;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(206, 212, 214);
+}
+.e03-box {
+    border: solid 2px;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(206, 212, 214);
+}
+.education-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    
+}
+body {
+    background-image: url(https://cbeditz.com/public/cbeditz/preview/light-sky-blue-gradient-background-wallpaper-hd-11614501737urxucrdnmz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.education-back {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    font-size: larger;
+}

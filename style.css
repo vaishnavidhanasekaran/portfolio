@@ -1,0 +1,19 @@
+img {
+  border-radius:  100px;
+}
+nav a {
+  border: solid 3px black;
+  margin: 8px;
+  font-size: large;
+}
+.top-right {
+  text-align: right;
+  }
+  body {
+    background: url(https://cbeditz.com/public/cbeditz/preview/light-sky-blue-gradient-background-wallpaper-hd-11614501737urxucrdnmz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
